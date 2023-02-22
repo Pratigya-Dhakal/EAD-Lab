@@ -1,1 +1,1 @@
-# 7th-sem
+# 7th-sem EAD LAB and ASSIGNMENT
