@@ -1,6 +1,6 @@
-Out put
-PS D:\StudyMaterial\7th-sem\EAD-Lab\Lab3> javac FactoryDemo.java
-PS D:\StudyMaterial\7th-sem\EAD-Lab\Lab3> java FactoryDemo      
-Creating a palace.....
-Creating a tree house.....
-Creating a tent house.....
+**Out put** <br>
+PS D:\StudyMaterial\7th-sem\EAD-Lab\Lab3> javac FactoryDemo.java <br>
+PS D:\StudyMaterial\7th-sem\EAD-Lab\Lab3> java FactoryDemo       <br>
+Creating a palace..... <br>
+Creating a tree house..... <br>
+Creating a tent house..... <br>
