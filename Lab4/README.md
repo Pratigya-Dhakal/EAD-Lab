@@ -67,4 +67,4 @@ public class FormHandle extends HttpServlet {
 
 ## Output
 
-![Servlet form](../../assets/servlet_form.png)
+![Servlet form](Lab4\assets\servlet_form.png)
