@@ -66,4 +66,4 @@ public class FormHandle extends HttpServlet {
 4. Right click the newely created server and click run server. 
 
 ## Output
-![Servlet form](assets\servlet_form.png)
+![Servlet form](./assets/servlet_form.png)
