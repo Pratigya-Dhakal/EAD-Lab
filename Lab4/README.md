@@ -1,4 +1,4 @@
-# Lab 4
+# Lab 4 and Assignment
 
 ## Objective
 
@@ -67,4 +67,8 @@ public class FormHandle extends HttpServlet {
 
 ## Output
 
+<<<<<<< HEAD
 ![Servlet form](Lab4\assets\servlet_form.png)
+=======
+![Servlet form](../../assets/servlet_form.png)
+>>>>>>> 0d6a119d7fc1045e9cb31ebb1c8abd420b41fa2f
