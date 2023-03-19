@@ -66,9 +66,4 @@ public class FormHandle extends HttpServlet {
 4. Right click the newely created server and click run server. 
 
 ## Output
-
-<<<<<<< HEAD
-![Servlet form](Lab4\assets\servlet_form.png)
-=======
-![Servlet form](../../assets/servlet_form.png)
->>>>>>> 0d6a119d7fc1045e9cb31ebb1c8abd420b41fa2f
+![Servlet form](assets\servlet_form.png)
